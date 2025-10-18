@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "813849213093",
+    "project_id": "leito-mendolo",
+    "storage_bucket": "leito-mendolo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813849213093:android:a8069678147e31c4dab54c",
+        "android_client_info": {
+          "package_name": "com.intro.leitormendolo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHPFD_3yo9aQLtiQUf5XNMVrqu6DuKupQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
