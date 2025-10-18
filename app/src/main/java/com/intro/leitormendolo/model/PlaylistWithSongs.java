@@ -8,7 +8,7 @@ import java.util.List;
 // Classe para carregar uma Playlist e todas as suas Songs associadas
 public class PlaylistWithSongs {
 
-    @Embedded // Inclui os campos da entidade Playlist diretamente aqui
+    @Embedded // Inclui os campos da entidade Playlist diretamente aquii
     public Playlist playlist;
 
     @Relation(
